@@ -1,0 +1,16 @@
+.ItemIconMenu {
+    padding: 24px 42px;
+    color: #636973;
+    font-size: 14px;
+    font-weight: 450;
+}
+
+.ItemIconMenu .icon {
+    margin-bottom: 5px;
+    font-size: 24px;
+}
+
+.ItemIconMenu span {
+    cursor: pointer;
+    display: block;
+}
