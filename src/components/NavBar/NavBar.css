@@ -1,0 +1,24 @@
+.NavBar {
+    z-index: 2;
+    text-align: center;
+}
+
+.NavBar ul {
+    list-style: none;
+}
+
+.NavBar ul li {
+    background: #e5e5e5;
+    border: 1px solid #ddd;
+    display: inline-flex;
+}
+
+.top-nav-bar {
+    background: #fff !important;
+    color: #33db27 !important;
+    border-top: 1px solid #33db27 !important;
+}
+
+.top-nav-bar span,.top-nav-bar .icon {
+    color: #33db27
+}

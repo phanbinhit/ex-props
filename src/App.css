@@ -1,26 +1,10 @@
-.menu-bar {
-    text-align: center;
-}
-
-.menu-bar ul {
-    list-style: none;
-}
-
-.menu-bar ul li {
-    background: #e5e5e5;
-    border: 1px solid #ddd;
-    display: inline-flex;
-}
-
-.top-nav-bar {
-    background: #fff !important;
-    color: #33db27 !important;
-    border: none !important;
-    border-top: 1px solid #33db27 !important;
-    border-right: 1px solid #e5e5e5;
-    box-shadow: 0px 3px #e5e5e5;
-}
-
-.top-nav-bar span,.top-nav-bar .icon {
-    color: #33db27
+.App {
+    position: relative;
+    z-index: 1;
+    height: 100vh;
+    background: url(./images/contact-logo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0, 0.4);
 }
